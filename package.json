@@ -1,10 +1,10 @@
 {
   "name": "react-generator",
   "version": "1.0.57",
-  "description": "A React component container and test generation library",
+  "description": "A React component, container and test generation library",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wednesday-solutions/test-generator.git"
+    "url": "git://github.com/wednesday-solutions/react-generator.git"
   },
   "engines": {
     "npm": ">=5",
